@@ -1,0 +1,21 @@
+.admin-shipping-details-container {
+  width: 90%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 50px;
+  box-shadow: 0px 10px 70px #00000066;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+}
+
+.admin-shipping-details-container h1 {
+  font-size: 20px;
+  font: normal normal 300 20px/34px Poppins;
+}
+.admin-shipping-details-container p {
+  font-size: 18px;
+  font: normal normal 300 18px/27px Poppins;
+  color: #979797;
+}

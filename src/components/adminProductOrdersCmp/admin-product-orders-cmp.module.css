@@ -1,0 +1,14 @@
+.tab-style {
+  color: white;
+  height: 150px;
+  width: 150px;
+  box-shadow: 0px 5px 20px #00b4d85c;
+  border-radius: 10px;
+  opacity: 1;
+}
+
+.tab-inner-style {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}

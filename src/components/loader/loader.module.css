@@ -1,0 +1,5 @@
+.loader-container {
+  color: white;
+  display: flex;
+  justify-content: center !important;
+}

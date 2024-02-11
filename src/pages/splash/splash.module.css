@@ -1,0 +1,12 @@
+.splash-container {
+  background: #1e1e1e;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.splash-img {
+  height: 542px;
+  width: 120px;
+}

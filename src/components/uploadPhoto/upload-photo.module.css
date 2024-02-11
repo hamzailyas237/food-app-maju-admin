@@ -1,0 +1,17 @@
+.upload-photo-container {
+  display: flex;
+  gap: 40px;
+}
+
+.photo {
+  width: 150px;
+  height: 150px;
+  border: 2px solid #707070;
+}
+
+.add-photo {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

@@ -1,0 +1,49 @@
+.navbar-background {
+  background-color: #1e1e1e;
+}
+.navbar-header {
+  background-color: #1e1e1e;
+  box-shadow: 0px 10px 70px #00000066;
+  border-radius: 10px;
+  opacity: 1;
+}
+
+.sidebar-content {
+  box-shadow: 0px 10px 70px #00000066;
+  border-radius: 20px;
+  /* width: 390px !important; */
+  opacity: 1;
+  color: white;
+}
+
+.notification-container {
+  display: flex;
+  justify-content: space-between !important;
+  gap: 120px;
+}
+
+.notification-content {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.notification-date {
+  color: #d5dce8;
+  font-size: 13px;
+}
+
+.notification-name {
+  font-size: 15px;
+}
+.notification-text {
+  color: #737373;
+  font-size: 13px;
+}
+
+.view-all-notifications {
+  display: flex;
+  justify-content: center;
+  text-decoration: underline;
+  color: #1492e6;
+}

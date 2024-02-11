@@ -1,0 +1,39 @@
+.total-amount-table-container {
+  width: 90%;
+  display: flex;
+  flex-direction: column;
+}
+
+.table-container {
+  overflow-y: scroll !important;
+  max-height: 314px;
+}
+
+.tab-list-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.amount-tab-style {
+  width: 360px;
+  height: 60px;
+  border: 0.5px solid #ffffff;
+  border-radius: 7px;
+}
+
+.calendar-icon-container {
+  background-color: #00b4d8;
+  width: 61px;
+  height: 57px;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.tab-panel-heading {
+  font-size: 25px;
+}

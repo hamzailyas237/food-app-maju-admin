@@ -1,0 +1,27 @@
+/* Glbal Styles  */
+
+@font-face {
+  font-family: "Poppins";
+  src: url("/src/fonts/Poppins-Regular.ttf");
+}
+
+* {
+  font-family: Poppins;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #888;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}

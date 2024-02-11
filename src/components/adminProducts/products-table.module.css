@@ -1,0 +1,40 @@
+.products-table-component-container {
+  width: 90%;
+  display: flex;
+  flex-direction: column;
+}
+
+.add-product-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 70px;
+}
+
+.table-container {
+  overflow-y: scroll !important;
+  max-height: 314px;
+}
+
+table {
+  border-collapse: collapse;
+  border-left: 1px solid #707070;
+  border-right: 1px solid #707070;
+  width: 100%;
+  margin-top: 15px;
+}
+
+td,
+th {
+  border-top: 1px solid #707070;
+  border-bottom: 1px solid #707070;
+  text-align: left;
+  padding: 8px;
+}
+
+.action-container {
+  display: flex;
+  gap: 5px;
+  flex-wrap: wrap;
+  /* margin-top: 5px; */
+}

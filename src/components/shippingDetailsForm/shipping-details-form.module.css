@@ -1,0 +1,11 @@
+.shipping-details-container {
+  color: white;
+  margin-top: 10px;
+}
+
+.shipping-form {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  margin-top: 20px;
+}
